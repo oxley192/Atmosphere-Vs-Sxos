@@ -109,3 +109,8 @@ if u do pick autoboot to get to the menu you have to press volume up (+) when bo
 alittle tip if your trying to get new games to work on sxos use switch army knife
 
 i am thinking about doing some more themes for sxos 
+
+
+
+i did try to upload the files on to this  but no luck so https://drive.google.com/drive/folders/1H9C4i-g8pTN1cthrx5CeYXxOQacqm7bH?usp=sharing this is the sd card setup just needed to get if fully working then just put the renamed boot.dat on the root of the sdcard and once done the emunand and the emuMMC
+
